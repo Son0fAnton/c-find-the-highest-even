@@ -9,7 +9,7 @@ int main(){
         if(n % 2 == 0 && max_even < n){
             max_even = n;
             i++;
-	    }
+	}
     }
     if(max_even > 0){
         printf("The highest EVEN integer is %d", max_even);
