@@ -1,6 +1,10 @@
 # c-find-the-highest-even CODECHUM EVENT
 
 
+```console
+sly㉿kali:~$ gcc highest-even.c -o result
+sly㉿kali:~$ ./result
+```
 
 TEST I/O
 ```
