@@ -2,8 +2,8 @@
 
 
 ```console
-㉿kali:~$ gcc highest-even.c -o result
-㉿kali:~$ ./result
+test㉿kali:~$ gcc highest-even.c -o result
+test㉿kali:~$ ./result
 ```
 
 TEST I/O
